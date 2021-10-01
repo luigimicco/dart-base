@@ -1,6 +1,6 @@
 
   // tipi base
-  void main_base() {
+  void main() {
     bool si = true;
     bool no = false;
     int intero = 25;

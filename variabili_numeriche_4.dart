@@ -1,5 +1,5 @@
   // varibili non modificabili
-  void main()) {
+  void main() {
     final int intero = 25;
     final double decimale = 3.15;
 
