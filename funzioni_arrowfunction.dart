@@ -4,7 +4,7 @@ void main() {
   print(sottrazione(5, 4));
 
   var numeri = [10, 20, 30, 40];
-  parole.forEach((elemento) => print(elemento));
+  numeri.forEach((elemento) => print(elemento));
 
   var parole = ['acqua', 'terra', 'fuoco', 'aria'];
   parole.forEach((String parola) {

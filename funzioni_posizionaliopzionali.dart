@@ -13,7 +13,7 @@ void main() {
 // il parametro y è opzionale
 int potenza(int x, [int y = 2]) {
   int r = 1;
-  for (int i = 0; i < 2; i++) {
+  for (int i = 0; i < y; i++) {
     r *= x;
   }
   return r;
